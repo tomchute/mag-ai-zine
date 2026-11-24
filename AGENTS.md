@@ -1,0 +1,1 @@
+Run commands from the checkout. Follow the user's current MAGAZINE.md for editorial choices. Show [Preview] in every choice list for flagged items. Ask for confirmation of article IDs before building a personal issue. Send only when requested. Run python -m unittest discover -s tests before proposing code changes.

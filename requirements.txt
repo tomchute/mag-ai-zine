@@ -1,0 +1,6 @@
+feedparser==6.0.14
+trafilatura==2.3.1
+ebooklib==0.21
+lxml>=5.3,<7
+pillow>=10.4,<13
+pyyaml>=6.0.2,<7
